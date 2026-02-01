@@ -6,3 +6,5 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="logo-html5">
 <img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white" alt="logo-css">
 </h3>
+
+<img src="https://github.com/tonyfeitosa23/easy-shopping/blob/master/img/Desktop.png?raw=true">
